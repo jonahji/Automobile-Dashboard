@@ -1,1 +1,8 @@
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e18069fe831a4f828ad099000ed34137?sid=e7737185-ac28-462f-93d4-b9991498854d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/e18069fe831a4f828ad099000ed34137">
+      <p>Data Visualization Dashboard</p>
+    </a>
+    <a href="https://www.loom.com/share/e18069fe831a4f828ad099000ed34137">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e18069fe831a4f828ad099000ed34137-with-play.gif">
+    </a>
+  </div>
